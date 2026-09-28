@@ -1,0 +1,41 @@
+#: locale=es
+
+## Hotspot
+
+### Texto
+HotspotPanoramaOverlayTextImage_87BC4D19_926D_6C03_41C9_0F2116DFC538.text = 1950m2
+HotspotPanoramaOverlayTextImage_8651EEA9_9275_EC02_41E1_6AAF74ABD41B.text = Afectacion 21000m2
+HotspotPanoramaOverlayTextImage_86FB2DF4_926F_6C01_41CF_8939434FFB70.text = Afectacion 21000m2 \
+
+HotspotPanoramaOverlayTextImage_86FFD70E_9275_7C01_41B9_ABE7F6BEF9F3.text = Terreno  10867m2
+HotspotPanoramaOverlayTextImage_86C4136E_926D_741E_4197_10BCAF25EBF5.text = Terreno 10867m2
+HotspotPanoramaOverlayTextImage_812CF178_9273_3401_41A9_3B5F4B7FCD55.text = Terreno 1950m2
+HotspotPanoramaOverlayTextImage_813D5E9F_9277_EC3F_41C8_135707F14BFF.text = Terreno 80000m2
+
+### Tooltip
+HotspotPanoramaOverlayArea_8141A11D_9275_5403_41D2_ECAA03E9FF02.toolTip = Afectaion aprox
+HotspotPanoramaOverlayArea_80C113A1_927D_5402_41DA_24DE08A5ADCF.toolTip = terreno 1950m2
+
+## Media
+
+### Imágen
+imlevel_8AFFC7B7_9255_3C0E_41C3_3BC43ED248B2.url = media/panorama_825C66D3_9276_DC07_41A4_A5E977E049B8_HS_7ugm2k9d_es.webp
+imlevel_857BD63A_9255_3C01_41D0_66BD5392E37B.url = media/panorama_825C66D3_9276_DC07_41A4_A5E977E049B8_HS_bsd3jnnc_es.webp
+imlevel_854779CF_9255_341E_41DE_A19A6A3C1A3C.url = media/panorama_9DED9397_9276_F40E_41DD_BDD50D549D85_HS_g9959ud4_es.webp
+imlevel_854278CC_9255_3402_41DD_4F5AFBC7A98A.url = media/panorama_9DED9397_9276_F40E_41DD_BDD50D549D85_HS_ziops2l6_es.webp
+imlevel_85730E97_9255_6C0E_41DC_70E4BCA97A10.url = media/panorama_9DEF708C_9276_D402_41DC_0958E0FA486C_HS_9rbc8f9k_es.webp
+imlevel_885046D9_9255_5C02_41A1_9AFA20509EEB.url = media/panorama_9DEF708C_9276_D402_41DC_0958E0FA486C_HS_jzrkmo2g_es.webp
+imlevel_8AE18BC5_9255_5403_41B9_D0533C2CB289.url = media/panorama_9DEF708C_9276_D402_41DC_0958E0FA486C_HS_t11u39yl_es.webp
+
+### Título
+model_52D3E6C8_5EF8_1A12_41B5_75BF27491EC0.label = 3D
+panorama_825C66D3_9276_DC07_41A4_A5E977E049B8.label = barranca
+panorama_9DED9397_9276_F40E_41DD_BDD50D549D85.label = cementerio
+panorama_9DEF708C_9276_D402_41DC_0958E0FA486C.label = centro
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Entrada a galeana
